@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    matheus tatangelo matheus.tatangelo.pb@compasso.com.br @matheus_dev
 
 # THANKS
 
