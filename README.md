@@ -14,4 +14,4 @@ This is a simple web project, deployment can be any web server or even local fil
 Please fork this repository and then issue Pull Requests for Review.
 
 ### Copyright
-2023 Matheus Tatangelo
+2023 Matheus Tatangelo. All rights reserved.
